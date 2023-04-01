@@ -1,0 +1,27 @@
+#movies-menu {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.movie-menu-item {
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#movie-details {
+    display: flex;
+    flex-direction: column;
+}
+
+#poster {
+    width: 200px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+#buy
