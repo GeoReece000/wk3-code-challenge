@@ -1,0 +1,19 @@
+{
+  "name": "wk3-code-challenge",
+  "version": "1.0.0",
+  "description": "Author: Geofrey",
+  "main": "index.js",
+  "scripts": {
+    "db": "npx json-server --watch db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoReece000/wk3-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeoReece000/wk3-code-challenge/issues"
+  },
+  "homepage": "https://github.com/GeoReece000/wk3-code-challenge#readme"
+}
